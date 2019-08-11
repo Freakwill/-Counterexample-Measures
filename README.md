@@ -4,7 +4,7 @@
 
 ## Counterexamples
 
-a set function defined on semiring, that is addictive, positive, is not necessarily countably addictive (that will be a measture).
+a set function defined on semiring, that is addictive, positive, continous on empty (continous up to down), is not necessarily countably addictive (that will be a measture).
 
 ![](https://github.com/Freakwill/Counterexample-Measures/blob/master/semiring.jpg)
 
